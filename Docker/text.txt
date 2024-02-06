@@ -1,0 +1,6 @@
+trying github
+always check git status
+3 branches
+main
+developer
+specification
